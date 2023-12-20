@@ -1,0 +1,12 @@
+<package format="2">
+  <name>point_in_polygon_lib</name>
+  <version>0.0.0</version>
+  <description>The point_in_polygon_lib package</description>
+
+  <maintainer email="kosuke@todo.todo">kosuke</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
