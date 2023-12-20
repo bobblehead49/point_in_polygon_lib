@@ -1,5 +1,3 @@
-CC = g++
-
 test: mkdir test.o kalman.o
 	g++ -o bin/test bin/test.o bin/kalman.o
 
